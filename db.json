@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "PVE GS",
+      "precio": "51",
+      "id": 15
+    },
+    {
+      "nombre": "Coconut",
+      "precio": 13,
+      "id": 16
+    },
+    {
+      "nombre": "Mugi",
+      "precio": 21,
+      "id": 17
+    },
+    {
+      "nombre": "EVA",
+      "precio": 159,
+      "id": 18
+    }
+  ]
+}
